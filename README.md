@@ -1,5 +1,3 @@
----
-
 # BeboCalc
 
 **BeboCalc** is a minimal arithmetic expression interpreter written in **C**, built to explore low-level parsing, tokenization, and recursive descent evaluation.
