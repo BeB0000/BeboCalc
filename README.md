@@ -1,5 +1,3 @@
-Here’s a README in the same style and structure as your **BeboShell** one, adapted for your arithmetic interpreter project.
-
 ---
 
 # BeboCalc
