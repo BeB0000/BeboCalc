@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
-include <string.h>
+#include <string.h>
 
-define BUFFER 1024
-define INT 1
-define OP 0
+#define BUFFER 1024
+#define INT 1
+#define OP 0
 
 int cpos = 0;
 
